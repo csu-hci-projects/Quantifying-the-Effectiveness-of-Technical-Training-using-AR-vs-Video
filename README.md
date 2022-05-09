@@ -13,4 +13,4 @@ https://ar.adobe.com/landing/?id=aHR0cHM6Ly9jYy1hcGktY3AuYWRvYmUuaW8vYXBpL3YyL2N
 This link will require the Adobe Aero App to be installed on yoru mobile device to view.
 
 
-Project Website: 
+Project Website: https://github.com/csu-hci-projects/Quantifying-the-Effectiveness-of-Technical-Training-using-AR-vs-Video/blob/main/norman_CS464_spring2022.html
